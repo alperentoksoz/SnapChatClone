@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "27D87AD1-01A6-49F3-8463-421D964133F3"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E94BD2D9-17E8-44FB-87F0-70D082F391B7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SnapChatFinal/ViewControllers/FeedVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "getUserInfo()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E94BD2D9-17E8-44FB-87F0-70D082F391B7 - 9dc24d1ced4045bd"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.FIRQuerySnapshot&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in SnapChatFinal.FeedVC.getUserInfo() -&gt; ()"
+                  moduleName = "SnapChatFinal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aetoksoz/Desktop/ios/SnapChatFinal/SnapChatFinal/ViewControllers/FeedVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "2286">
+               </Location>
+               <Location
+                  uuid = "E94BD2D9-17E8-44FB-87F0-70D082F391B7 - 9dc24d1ced4045bd"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.FIRQuerySnapshot&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in SnapChatFinal.FeedVC.getUserInfo() -&gt; ()"
+                  moduleName = "SnapChatFinal"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/aetoksoz/Desktop/ios/SnapChatFinal/SnapChatFinal/ViewControllers/FeedVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "2439">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
