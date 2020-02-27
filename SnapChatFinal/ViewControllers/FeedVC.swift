@@ -89,7 +89,7 @@ class FeedVC: UIViewController, UITableViewDelegate, UITableViewDataSource {
         let button = UIAlertAction(title: "Ok", style: UIAlertAction.Style.default, handler: nil)
         alert.addAction(button)
         self.present(alert, animated: true, completion: nil)
-        
+        //TEST AMAÇLI ÇALIŞMA YAPILMAKTADIR.
     }
     
     func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
